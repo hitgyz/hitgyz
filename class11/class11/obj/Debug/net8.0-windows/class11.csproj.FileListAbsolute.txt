@@ -1,0 +1,16 @@
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.Form1.resources
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.csproj.GenerateResource.cache
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.AssemblyInfoInputs.cache
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.AssemblyInfo.cs
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.csproj.CoreCompileInputs.cache
+D:\VisualStudio\project\class11\class11\bin\Debug\net8.0-windows\class11.exe
+D:\VisualStudio\project\class11\class11\bin\Debug\net8.0-windows\class11.deps.json
+D:\VisualStudio\project\class11\class11\bin\Debug\net8.0-windows\class11.runtimeconfig.json
+D:\VisualStudio\project\class11\class11\bin\Debug\net8.0-windows\class11.dll
+D:\VisualStudio\project\class11\class11\bin\Debug\net8.0-windows\class11.pdb
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.dll
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\refint\class11.dll
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.pdb
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\class11.genruntimeconfig.cache
+D:\VisualStudio\project\class11\class11\obj\Debug\net8.0-windows\ref\class11.dll
